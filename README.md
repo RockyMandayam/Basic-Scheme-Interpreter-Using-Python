@@ -4,6 +4,7 @@ Created by Rocky Mandayam and Mitch Schellenger.
 This interpreter can evaluate some basic operations in the programming language Scheme. Here are the types of Scheme expressions and special forms the interpreter can handle:
 
 Arithmetic
+
 Cons, car, and cdr expressions
 
 Quoted expressions
